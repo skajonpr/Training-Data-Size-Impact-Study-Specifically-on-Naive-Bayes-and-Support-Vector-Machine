@@ -1,6 +1,6 @@
 # Training-Data-Size-impact-study
 
-This study is to discover the impact of traning data sizes over classification models included Support Vector Machine and Multi Naive Bayes.
+This study is to discover the impact of traning data sizes over text classification models included Support Vector Machine and Multi Naive Bayes.
 
 **Program steps:**
 - Start with 800 samples from the dataset, in each round you build a classifier with 400 more samples.
