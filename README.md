@@ -2,7 +2,7 @@
 
 This study is to discover the impact of traning data sizes over classification models included Support Vector Machine and Multi Naive Bayes.
 
-**Program step**
+**Program steps:**
 - Start with 800 samples from the dataset, in each round you build a classifier with 400 more samples.
 - In each round:
   + Create pipelines for both SVM and NB.
